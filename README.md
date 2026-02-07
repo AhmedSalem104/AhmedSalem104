@@ -11,9 +11,10 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedsalem-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsalem104)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsalem104@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-dun-19.vercel.app/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-a-salem-86b789236/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.algazar.9406/)
+[![Wuzzuf](https://img.shields.io/badge/Wuzzuf-FF6F00?style=for-the-badge&logo=w&logoColor=white)](https://wuzzuf.net/me/Ahmed-Salem-6ddd248f3c)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedSalem104)
 
 <img src="https://komarev.com/ghpvc/?username=AhmedSalem104&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -147,7 +148,7 @@ fun_fact: "I turn coffee into scalable web applications ☕ → 🚀"
 > A modern personal portfolio showcasing projects and skills with elegant design and smooth animations.
 
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/AhmedSalem104/Portfolio_)
-[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel)](https://ahmedsalem-portfolio.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel)](https://portfolio-rho-dun-19.vercel.app/home)
 
 </td>
 </tr>
