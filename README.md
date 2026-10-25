@@ -26,24 +26,14 @@
 <!-- ABOUT ME -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
 
-```yaml
-name: Ahmed Abdel Hamid Salem
-location: Cairo, Egypt
-company: Solution Software
-role: Fullstack Developer
+I'm **Ahmed Abd Elhamid Salem**, a Cairo-based **Senior Full-Stack Software Engineer** with **5+ years** of experience building and shipping enterprise web applications.
 
-experience:
-  backend:  [".NET Core", "ASP.NET Web API", "Entity Framework", "SQL Server"]
-  frontend: ["Angular", "TypeScript", "RxJS", "Tailwind CSS"]
-  tools:    ["Git", "Docker", "Postman", "VS Code", "Visual Studio"]
+- **Backend:** .NET 8, ASP.NET Core, REST APIs, EF Core, Dapper, SQL Server, Clean Architecture and CQRS.
+- **Frontend:** Angular, TypeScript, responsive interfaces and operational dashboards.
+- **Production systems:** SignalR and Redis for real-time features, secure authentication, payment integrations and Azure deployment.
+- **Recent platforms:** [SNA Engineering Industries](https://snalattal.me) (Next.js, Prisma and MySQL) and [Adawi Legal Services](https://adawilaw.com) (Laravel, Filament and Livewire).
 
-currently:
-  - Building enterprise-grade fullstack applications
-  - Exploring microservices architecture & cloud deployment
-  - Contributing to open-source projects
-
-fun_fact: "I turn coffee into scalable web applications ☕ → 🚀"
-```
+I currently work as a **Senior Full-Stack Developer at BDC**, turning complex requirements into reliable products that teams can use every day. Reach me via [LinkedIn](https://www.linkedin.com/in/ahmed-salem-86b789236/) or [email](mailto:ahmedsalem1041998@gmail.com).
 
 ---
 
